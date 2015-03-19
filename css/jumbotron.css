@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.user {
+	border: 1px inset #333;
+	border-radius: 5px;
+	padding: 7px 10px;
+	background-color: #9d9d9d;
+	color:#333;
+}
+
+footer{
+	text-align: center;
+	padding:50px;
+	color:#9d9d9d;
+	background-color:#333;
+}
